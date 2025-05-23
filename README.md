@@ -31,11 +31,11 @@ In diesem Lab wurde ein vollständiger Taschenrechner auf Basis der umgekehrten 
 1. Projekt öffnen in IntelliJ
 2. ConsoleApp.java ausführen
 3. Beispiel:
-   ```
-   > 3 + 4 * (2 - 1)
+   
+   3 + 4 * (2 - 1)
    Postfix: 3 4 2 1 - * +
    Ergebnis: 7.00
-   ```
+   
 
 ## Testen
 
